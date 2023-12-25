@@ -17,11 +17,16 @@ The Old Age Care System is a web-based platform designed to provide valuable inf
    The "page4.html" page is dedicated to information about medication management for seniors. It includes guidance on proper medication schedules, potential side effects, and the importance of regular check-ups.
 
 ## Future goals
-    1. medicine Reminder
-    2. Emergency contacts with locations
-    3. Locate nearby hospital
-    4. Emergency Video Call
-    5. Home location Finder
+    Medicine Reminder
+    Emergency contacts with locations
+    Locate nearby hospital
+    Emergency Video Call
+    Home location Finder
+## ScreenShots
+![Alt text](<Screenshot (198)-1.png>)
+![Alt text](<Screenshot (199).png>)
+![Alt text](<Screenshot (200).png>)
+![Alt text](image.png)
 ## How to Use
 To explore the content, simply open each HTML file in a web browser. The navigation is straightforward, and users can easily switch between the different topics using the links provided.
 
