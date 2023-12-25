@@ -27,7 +27,6 @@ The Old Age Care System is a web-based platform designed to provide valuable inf
 ![Alt text](<Screenshot (199).png>)
 ![Alt text](<Screenshot (200).png>)
 ![Alt text](image.png)
-## How to Use
-To explore the content, simply open each HTML file in a web browser. The navigation is straightforward, and users can easily switch between the different topics using the links provided.
+
 
 
