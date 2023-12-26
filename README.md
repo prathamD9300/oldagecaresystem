@@ -22,6 +22,9 @@ The Old Age Care System is a web-based platform designed to provide valuable inf
     Locate nearby hospital
     Emergency Video Call
     Home location Finder
+
+## Live Demo
+   https://prathamd9300.github.io/oldagecaresystem/
 ## ScreenShots
 ![Screenshot (198)-1](https://github.com/prathamD9300/oldagecaresystem/assets/118621177/70c43cb0-af08-4df4-9711-6e238e79c182)
 ![Screenshot (199)](https://github.com/prathamD9300/oldagecaresystem/assets/118621177/59d95955-529c-4717-b89d-be107955283c)
